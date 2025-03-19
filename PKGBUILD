@@ -1,7 +1,7 @@
 pkgname=base-runtime
 pkgver=1
-pkgrel=1
-pkgdesc='Minimal package set to define a basic Laniakea installation'
+pkgrel=2
+pkgdesc='Base runtime packages for Laniakea'
 url='https://www.laniakeaos.com'
 arch=('any')
 license=('GPL')
